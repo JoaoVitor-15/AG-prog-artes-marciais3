@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #000;
+}
+section{
+    width: 75%;
+    height: 75vh;
+    background-color: #0b1dea;
+    float: left;
+    margin-left: 37.5%;
+    margin-top: 37.5vh;
+}
+section h2{
+    text-align: left;
+    margin-top: 12vh;
+    color: #050505;
+    font-size: 2rem;
+}
